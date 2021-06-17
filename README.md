@@ -1,2 +1,2 @@
 # Guess-The-Number-Game-Using-Tkinter
-A Raw and GUI based on Tkinter Build for A Guess The Name Game
+A aw and GUI based on Tkinter build for a Guess The Name Game
