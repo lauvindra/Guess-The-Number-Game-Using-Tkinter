@@ -8,7 +8,7 @@ The game as we successfully find the random number
 
 ![](won.gif)
 
-The game as we failed to find the missing the number 
+The game as we failed to find the random number 
 
 
 ![](lost.gif)
